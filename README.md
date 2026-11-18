@@ -1,6 +1,8 @@
 # Dâmaris Amorim | Portfólio de Tecnologia
 
-Formada em **Análise e Desenvolvimento de Sistemas**, com projetos em desenvolvimento web, automação, Python, IA generativa, Power BI e SQL Developer.
+**AI Builder | Python & Inteligência Artificial**. Formada em **Análise e Desenvolvimento de Sistemas**, com certificação **Lean Six Sigma Yellow Belt**. Foco em otimizar processos usando Python, automação e inteligência artificial generativa. Conhecimentos em desenvolvimento web, Power BI e SQL Developer.
+
+**[Visualizar portfólio publicado](https://damkccn.github.io/damaris-portfolio/)**
 
 ## Projetos
 
